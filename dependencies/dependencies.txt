@@ -1,0 +1,8 @@
+SpeechRecognition
+PyAudio
+PyQt6
+
+whisper
+torch
+soundfile
+ffmpeg
